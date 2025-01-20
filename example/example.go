@@ -7,7 +7,7 @@ import (
 	"os"
 	"time"
 
-	"gopkg.in/vansante/go-ffprobe.v2"
+	ffprobe "github.com/tsoomo446/hack-ffprobe"
 )
 
 func main() {
